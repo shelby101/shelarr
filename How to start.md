@@ -185,7 +185,7 @@ ___
 
 Samba - to browse specific folders in Windows Explorer
 
-NPMPlus - reverse proxy 
+NPMPlus - reverse proxy
 
 Tailscale - VPN to access my nas
 
