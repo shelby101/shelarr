@@ -187,6 +187,6 @@ Recyclarr - imports TRaSH guides into Sonarr/Radarr easier. [TRaSH github](https
 |---|---|---|
 |[Radarr](/apps/arr/radarr.md)|[Recyclarr](/apps/arr/recyclarr.md)|[Samba](/apps/non-arr/samba.md)|
 |[Sonarr](/apps/arr/sonarr.md)|[Jellystat](/apps/arr/jellystat.md)|[Tailscale](/apps/non-arr/tailscale.md)|
-|[Seerr](/apps/arr/seerr.md)| |
+|[Seerr](/apps/arr/seerr.md)||[NPMPlus](/apps/non-arr/npmplus.md)|
 |[Qbittorrent](/apps/arr/qbittorrent.md)| |
 |[Prowlarr](/apps/arr/prowlarr.md)|||
