@@ -166,11 +166,16 @@ ___
 
 # 4. Install the Arr stack
 
-Jellyfin, Radarr, Sonarr, Seerr, Prowlarr, Qbittorrent
+Main apps: Jellyfin, Radarr, Sonarr, Seerr, Prowlarr, Qbittorrent
 
 These apps will be configured to automate the media collection.
 
+___
+
+Optional stuff
+
 Jellystat - gives more data about your media files, users. 
+
 Recyclarr - imports TRaSH guides into Sonarr/Radarr easier. [TRaSH github](https://trash-guides.info/Radarr/)
 
 ## Compose Files
