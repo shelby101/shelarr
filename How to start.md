@@ -1,3 +1,4 @@
+# How To Start with *arr stack
 
 1. [Install Docker](#1-install-dockerinstall-docker)
 2. [Install Dockge](#2-install-dockge)
