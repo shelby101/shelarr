@@ -7,6 +7,7 @@ Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base
 ___
 
 ### compose.yaml
+```yaml
 services:
   prowlarr:
     image: lscr.io/linuxserver/prowlarr:latest
