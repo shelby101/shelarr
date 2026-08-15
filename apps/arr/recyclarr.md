@@ -3,6 +3,7 @@
 Imports TRaSH guides into sonarr or radarr easier
 
 [Website](https://recyclarr.dev/guide/guide-configs/)
+
 [TRaSH](https://trash-guides.info/Radarr/)
 
 ### compose.yaml
