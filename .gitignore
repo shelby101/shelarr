@@ -1,0 +1,57 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Secrets and credentials
+secrets/
+*.key
+*.pem
+.ssh/
+
+# Docker compose overrides (local configs)
+docker-compose.override.yaml
+docker-compose.override.yml
+
+# App data and configs (sensitive)
+appdata/
+config/
+data/
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if used)
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+
+# Media/large files (optional - uncomment if needed)
+# *.iso
+# *.mkv
+# *.mp4
