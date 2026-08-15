@@ -96,6 +96,8 @@ chown -R 568:568 /mnt/4tb/
 
 chown gives the ownership to user 568 because that is how I run under most of my containers.
 
+replace the "4tb" with whatever you named your hdd mount
+
 ## Folder structure for my media files follows the best practice for the *arr stack
 
 
