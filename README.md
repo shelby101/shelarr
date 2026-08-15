@@ -2,7 +2,7 @@
 
 ## Index
 - [How To Start](How%20to%20start.md)
-- [Linux](./linux-commands.md)
+- [Linux](./linux.md)
 - [Compose files](./How%20to%20start.md#4-install-the-arr-stack)
 
 
