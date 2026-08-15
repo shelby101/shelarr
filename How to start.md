@@ -181,6 +181,13 @@ Jellystat - gives more data about your media files, users.
 
 Recyclarr - imports TRaSH guides into Sonarr/Radarr easier. [TRaSH github](https://trash-guides.info/Radarr/)
 
+___
+
+Samba - to browse specific folders in Windows Explorer
+NPMPlus - reverse proxy 
+Tailscale - VPN to access my nas
+
+
 ## Compose Files
 
 | Arr Main Stack | Arr Optional | Non-Arr |
