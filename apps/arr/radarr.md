@@ -5,6 +5,8 @@
 
 [Website](https://radarr.video/)
 
+[Wiki](https://wiki.servarr.com/)
+
 I use 2 instances because I want to be able to have in Jellyfin both a HD and UHD version, otherwise if I request a 4K version the FHD will be replaced. Tags can be used but this is easier.
 
 ### HD

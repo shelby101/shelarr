@@ -1,5 +1,9 @@
 # Sonarr
 
+[Wiki](https://wiki.servarr.com/)
+[Github](https://github.com/Sonarr/Sonarr)
+
+
 ## TV SHOWS
 
 ```yaml
